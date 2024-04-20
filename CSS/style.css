@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: #D08832;
+    background-image: url("../img/noel.jpg");
 }
 
 main{
@@ -20,21 +20,20 @@ main{
     text-align: center;
     margin: 2vh 5vw ;
     border-radius: 100px;
-    background-color: #7E121D;
 }
 
 h1{
-    color:#D08832;
+    color:#034F1B;
     margin: 5%;
 }
 
 span{
     height: 20%;
-    width: 50%;
+    width: 35%;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: solid #D08832 1px;
+    border-radius: 20px;
     background-color: #D08832;
     color: #034F1B;
 }
